@@ -3,12 +3,11 @@
 It is possible to boot the installation and system with this EFI.
 In the process of improvement, I accept help.
 
-BOOT: OC 0.9.9
+BOOT: OC 1.0.2
 
 OS:
 
-	Sonoma 14.3
-	Sonoma 14.4 (broken USB)
+	Sequoia 15.0.1
 
 SMBIOS: iMacPro1,1
 
